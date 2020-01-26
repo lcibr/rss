@@ -4,13 +4,18 @@
     <title>OGWP Developers Experimental Feed</title>
     <link>http://ogwpd.github.io/rss/test</link>
     <description>Hello, this is a test RSS Feed created by OGWPD</description>
-    <icon>https://raw.githubusercontent.com/ogwpd/multi-library/master/icons/ogwpd.ico</icon>
+    <logo>https://raw.githubusercontent.com/ogwpd/multi-library/master/icons/ogwpd.ico</logo>
+    <language>en</language>
     <item>
       <title>Test1</title>
       <link>https://github.com/ogwpd/rss/blob/master/test/test1.txt</link>
       <guid>https://github.com/ogwpd/rss/blob/master/test/test1.txt</guid>
       <pubDate>Sunday, 26 Jan 2020 16:35:22 GMT-03</pubDate>
       <description>Hello. This is a test.</description>
+      <author>
+        <name>OGWP Developers</name>
+        <uri>https://ogwpd.github.io</uri>
+      </author>
     </item>
   </channel>
 </rss>
