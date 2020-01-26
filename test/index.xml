@@ -4,8 +4,14 @@
     <title>OGWP Developers Experimental Feed</title>
     <link>http://ogwpd.github.io/rss/test</link>
     <description>Hello, this is a test RSS Feed created by OGWPD</description>
-    <logo>https://raw.githubusercontent.com/ogwpd/multi-library/master/icons/ogwpd.ico</logo>
+    <icon>
+      https://raw.githubusercontent.com/ogwpd/multi-library/master/icons/ogwpd.ico
+    </icon>
     <language>en</language>
+    <author>
+        <name>OGWP Developers</name>
+        <url>https://ogwpd.github.io</url>
+     </author>
     <item>
       <title>Test1</title>
       <link>https://github.com/ogwpd/rss/blob/master/test/test1.txt</link>
@@ -14,7 +20,7 @@
       <description>Hello. This is a test.</description>
       <author>
         <name>OGWP Developers</name>
-        <uri>https://ogwpd.github.io</uri>
+        <url>https://ogwpd.github.io</url>
       </author>
     </item>
   </channel>
